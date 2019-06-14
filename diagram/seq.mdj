@@ -25949,7 +25949,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFrFqg+/UFEGUY="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -25957,7 +25958,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFrFqg+/UFEGUY="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -25965,7 +25967,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFrFqg+/UFEGUY="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -25973,7 +25976,8 @@
 					"_parent": {
 						"$ref": "AAAAAAFrFqg+/UFEGUY="
 					},
-					"name": "Role4"
+					"name": "Role4",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
